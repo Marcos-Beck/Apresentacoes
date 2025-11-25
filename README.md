@@ -1,12 +1,6 @@
 # Repositório de Apresentações | Portfólio Visual
 #### Marcos Beck 
 ---
-# Índice 
-1. [Organização]()
-2. [Objetivo]()
-3. [Habilidades Demonstradas]()
-4. [O que você vai encontrar]()
-
 ## Organização 📁
 Cada apresentação possui sua própria pasta contendo todos ou alguns desses itens:
 
