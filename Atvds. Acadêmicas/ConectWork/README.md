@@ -2,7 +2,7 @@
 #### UFMS - Marcos Beck 
 ---
 ## Desafio proposto 
-Criar um banner ou cartaz digital para divulgar uma ideia inovadora sobre Como melhorar a experiência de realizar tarefas domésticas de forma mais divertida.
+Criar um banner ou cartaz digital para divulgar uma ideia inovadora sobre como melhorar a experiência da comunicação no trabalho.
 ## Requisitos 
 * Nome da sua ideia inovadora (um título chamativo);
 * Resumo da solução (máximo de 40 palavras);
